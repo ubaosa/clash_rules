@@ -2,5 +2,6 @@ payload:
   - 'DOMAIN-SUFFIX,x.com,AWS'
   - 'DOMAIN-SUFFIX,twitter.com,AWS'
   - 'DOMAIN-SUFFIX,instagram.com,AWS'
+  - 'DOMAIN-SUFFIX,cdninstagram.com,AWS'
   - 'DOMAIN-SUFFIX,facebook.com,AWS'
   - 'DOMAIN-SUFFIX,whatismyipaddress.com,AWS'
