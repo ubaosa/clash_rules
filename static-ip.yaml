@@ -1,6 +1,6 @@
 payload:
-  - '*.x.com'
-  - '*.twitter.com'
-  - '*.instagram.com'
-  - '*.facebook.com'
-  - '*.whatismyipaddress.com'
+  - 'DOMAIN-SUFFIX,x.com,AWS'
+  - 'DOMAIN-SUFFIX,twitter.com,AWS'
+  - 'DOMAIN-SUFFIX,instagram.com,AWS'
+  - 'DOMAIN-SUFFIX,facebook.com,AWS'
+  - 'DOMAIN-SUFFIX,whatismyipaddress.com,AWS'
