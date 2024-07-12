@@ -5,4 +5,3 @@ payload:
   - 'DOMAIN-SUFFIX,cdninstagram.com,AWS'
   - 'DOMAIN-SUFFIX,facebook.com,AWS'
   - 'DOMAIN-SUFFIX,whatismyipaddress.com,AWS'
-  - 'DOMAIN-SUFFIX,douyin.com,AWS'
