@@ -6,4 +6,4 @@ payload:
   - 'DOMAIN-SUFFIX,facebook.com,AWS'
   - 'DOMAIN-SUFFIX,whatismyipaddress.com,AWS'
   - 'DOMAIN-SUFFIX,paradoxinteractive.com,AWS'
-  
+  - 'DOMAIN-SUFFIX,paradoxwikis.com,AWS'
