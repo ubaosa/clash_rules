@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twimg.org
+  - DOMAIN-SUFFIX,twimg.co
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,twittr.com
