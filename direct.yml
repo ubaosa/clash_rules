@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,smtp
   - DOMAIN-SUFFIX,grass.io
+  - DOMAIN-SUFFIX,solixdepin.net
