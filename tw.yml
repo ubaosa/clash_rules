@@ -1,4 +1,2 @@
 payload:
-  - DOMAIN-KEYWORD,binance
-  - DOMAIN-KEYWORD,okx
   - DOMAIN-SUFFIX,sms-activate.io
