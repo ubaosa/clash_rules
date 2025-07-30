@@ -12,12 +12,3 @@ payload:
   - IP-CIDR,46.68.0.0/17,no-resolve
   # Giffgaff
   - IP-CIDR,87.194.0.0/16,no-resolve
-  # 推特相关
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twimg.org
-  - DOMAIN-SUFFIX,twimg.co
-  - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,twittr.com
